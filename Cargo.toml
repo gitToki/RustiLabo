@@ -1,0 +1,9 @@
+[package]
+name = "lean-basics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.23.0"
+winapi = { version = "0.3", features = ["winuser"] }
+
